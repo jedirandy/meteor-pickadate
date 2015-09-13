@@ -1,12 +1,8 @@
 Package.describe({
     name: 'jedirandy:pickadate',
-    version: '0.0.1',
-    // Brief, one-line summary of the package.
-    summary: 'The jQuery date picker plugin: Pickadate for meteor',
-    // URL to the Git repository containing the source code for this package.
-    git: '',
-    // By default, Meteor will default to using README.md for documentation.
-    // To avoid submitting documentation, set this field to null.
+    version: '3.5.6',
+    summary: 'pickadate package for Meteor',
+    git: 'https://github.com/jedirandy/meteor-pickadate.git',
     documentation: 'README.md'
 });
 
