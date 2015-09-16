@@ -1,8 +1,8 @@
 # meteor-pickadate
-pickadate package for Meteor
+pickadate package for Meteor 
 
-https://github.com/amsul/pickadate.js/
+http://amsul.ca/pickadate.js/
 
-version
-`3.5.6`
+Current version `3.5.6`
+
 
